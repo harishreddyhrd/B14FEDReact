@@ -1,0 +1,28 @@
+{
+    "myData" : [
+        {
+            "ScripID": 507685,
+            "ScripName": "WIPRO Ltd.",
+            "BookValue": "81.28",
+            "CurrentMarketPrice": "350.50₹"
+        },
+        {
+            "ScripID": 532540,
+            "ScripName": "TCS Ltd.",
+            "BookValue": "198.19",
+            "CurrentMarketPrice": "2679.15₹"
+        },
+        {
+            "ScripID": 532755,
+            "ScripName": "Tech Mahindra Ltd.",
+            "BookValue": "230.31",
+            "CurrentMarketPrice": "876.15₹"
+        },
+        {
+            "ScripID": 507685,
+            "ScripName": "Wipro Limited",
+            "BookValue": "81.28",
+            "CurrentMarketPrice": "350.50₹"
+        }
+    ]
+}
